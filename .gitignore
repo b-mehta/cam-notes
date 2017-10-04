@@ -1,4 +1,5 @@
-*/*.pdf
+*/*.fls
+*/*.fdb_latexmk
 *.sh
 */*.aux
 */*.log
